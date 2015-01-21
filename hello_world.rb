@@ -12,4 +12,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     \XX\       \X/    \XXX/    \X/       /XX/
        "\       "      \X/      "      /"'
 
+puts "data"
 puts "Hello world!"
